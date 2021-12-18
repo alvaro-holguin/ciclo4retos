@@ -24,7 +24,7 @@ import usa.ElMercader.servicios.ClienteService;
 
 /**
  *
- * @author Camilo
+ * @author Alvaro
  */
 @RestController
 @RequestMapping("/api/user")
